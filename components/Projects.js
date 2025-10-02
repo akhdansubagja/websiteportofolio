@@ -8,19 +8,19 @@ const Projects = () => {
       title: "GoRentall - Aplikasi Sewa Kendaraan", 
       description: "GoRentAll adalah sistem sewa kendaraan yang dibuat sebagai Final Project. Proyek ini dikerjakan tim dengan pembagian tugas antara backend dan frontend. Sistem terdiri dari aplikasi mobile untuk penyewa (Ionic/Angular) dan backend API dengan Laravel yang juga menyediakan panel admin web.", 
       image: "/projects/project1.png",
-      githubLink: "https://github.com/your-username/project1-repo"
+      githubLink: "https://github.com/akhdansubagja/fpbackendv2"
     },
     { 
       title: "Zein Persada - Website Pesan Tiket Tour & Travel", 
       description: "Zein Persada adalah website untuk memesan tiket tour dan travel. Website ini dibuat menggunakan native PHP dengan database MySQL. Fitur utama meliputi penyediaan paket tour, pemesanan tiket, dan manajemen user.", 
       image: "/projects/project2.png",
-      githubLink: "https://github.com/your-username/project2-repo" 
+      githubLink: "https://github.com/akhdansubagja/finalprojectsemester3" 
     },
     { 
       title: "Studio Music Tracker", 
       description: "Studio Musik Tracker adalah aplikasi web sederhana yang dibangun menggunakan Laravel 10 untuk mencatat, melacak, dan memvisualisasikan data pemesanan (booking) studio musik. Aplikasi ini dirancang untuk memberikan gambaran cepat mengenai pendapatan dan frekuensi sewa studio dalam rentang waktu yang fleksibel.", 
       image: "/projects/project3.png",
-      githubLink: "https://github.com/your-username/project3-repo" 
+      githubLink: "https://github.com/akhdansubagja/studiomusictracer" 
     },
     // Tambahkan proyek lainnya di sini
   ];

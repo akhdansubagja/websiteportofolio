@@ -16,6 +16,7 @@ const Skills = () => {
     { name: "MySQL", logo: "/logos/mysql.svg" },
     { name: "Git", logo: "/logos/git.svg" },
     { name: "Postman", logo: "/logos/postman.svg" },
+    { name: "Docker", logo: "/logos/docker.svg" },
     // Tambahkan skill lainnya di sini dengan path logo yang sesuai
     // Contoh: { name: "PostgreSQL", logo: "/logos/postgresql.svg" },
     // Pastikan Anda sudah punya file `public/logos/postgresql.svg`
