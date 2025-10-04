@@ -34,7 +34,7 @@ const About = () => {
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-transform duration-300 transform hover:scale-105"
             >
-              Unduh CV Saya
+              Lihat CV Saya
             </a>
           </div>
         </div>
